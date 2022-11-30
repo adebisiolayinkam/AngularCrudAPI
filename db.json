@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 120,
+      "comment": "This is the fresh apple",
+      "date": "2022-11-27T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second hand",
+      "price": 150,
+      "comment": "This is not fresh",
+      "date": "2022-11-28T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Laptop",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 250000,
+      "comment": "This is the new system",
+      "date": "2022-11-29T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Van",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 30000,
+      "comment": "New one",
+      "date": "2022-11-13T23:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Air Condition",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 150000,
+      "comment": "Brand new air condition",
+      "date": "2022-11-07T23:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
